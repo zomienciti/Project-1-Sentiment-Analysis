@@ -1,15 +1,16 @@
-Introduction 
+# Introduction 
 
 Pada bagian ini, kamu bisa berikan background atau latar belakang tentang dari persoalan yang ada, lalu apa itu teknologi sentimen analysis dan bagaimana kemudian teknologi sentimen analysis menggunakan Artificial Intelligence bisa membantu menyelesaikan masalah tersebut. 
 
 Pada bagian ini, kamu juga bisa menaruh gambar-gambar ilustrasi untuk menunjang penjelasan mu. Ingat, image is worth a thousand words! 
-Getting Started 
+
+## Getting Started 
 
 Harapannya, siapapun yang berkunjung ke repositori proyek kamu mengerti bagaimana menjalankan hasil kerja kamu di PC/laptop mereka. Sehingga mereka bisa mengerti lebih jauh apa yang sudah kamu berhasil kerjakan. Buat penjelasan prosedur secara sistematis apa yang mesti mereka lakukan untuk itu. 
 
 Pastikan kamu menjelaskan dengan format prosedural menggunakan angka-angka (1, 2, 3, 4 dst) atau juga huruf-huruf (a, b, c, d dst) ketimbang menggunakan format paragraf yang terlampau panjang dan menyulitkan pengunjung repositori proyek kamu ketika membacanya. 
 
-The Result 
+## The Result 
 
 Pada bagian ini, silahkan sampaikan result atau hasil dari apa yang sudah kamu kerjakan. Beberapa hal yang mungkin bisa kamu muat yaitu: 
 1. Informasi performa final accuracy dari model yang kamu bangun
