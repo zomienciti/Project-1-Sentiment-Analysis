@@ -2,9 +2,12 @@
 
 ## Introduction 
 
-Pada bagian ini, kamu bisa berikan background atau latar belakang tentang dari persoalan yang ada, lalu apa itu teknologi sentimen analysis dan bagaimana kemudian teknologi sentimen analysis menggunakan Artificial Intelligence bisa membantu menyelesaikan masalah tersebut. 
+A. Background: Provide an overview of the context or problem that the AI project aims to address. Give information about the background, motivation, or challenges underlying the project.
+B. Objective: Clearly state the main objective of the AI project, such as improving efficiency, increasing accuracy, or providing a new solution.
+C. Target: Mention specific targets to be achieved through the AI project, such as the expected accuracy level or other performance metrics.
+D. Methodology: Explain the approach used in the project, including algorithms, techniques, or methodologies applied in developing the solution.
 
-Pada bagian ini, kamu juga bisa menaruh gambar-gambar ilustrasi untuk menunjang penjelasan mu. Ingat, image is worth a thousand words! 
+![alt text](?raw=true)
 
 ## Getting Started 
 
